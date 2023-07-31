@@ -1,6 +1,6 @@
 #python program to check if a Number is odd or even
 
-
+#take input from user
 n = int(input("Enter the number : "))
 
 num = n % 2
